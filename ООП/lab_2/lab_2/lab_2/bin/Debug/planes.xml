@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<ArrayOfPlane xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Plane>
+    <ID>111</ID>
+    <Type>Пассажирский</Type>
+    <Model>Boing 737</Model>
+    <PassengerSeats>200</PassengerSeats>
+    <Year>1999</Year>
+    <Payload>90</Payload>
+    <LastMaintenance>2026-02-03T18:56:49</LastMaintenance>
+    <Manufacturer>
+      <Name />
+      <Country />
+      <YearOfFoundation>1800</YearOfFoundation>
+    </Manufacturer>
+    <Crew />
+  </Plane>
+  <Plane>
+    <ID>1110</ID>
+    <Type>Грузовой</Type>
+    <Model>Boing 737</Model>
+    <PassengerSeats>189</PassengerSeats>
+    <Year>1999</Year>
+    <Payload>175</Payload>
+    <LastMaintenance>2026-02-03T18:56:49</LastMaintenance>
+    <Manufacturer>
+      <Name />
+      <Country />
+      <YearOfFoundation>1800</YearOfFoundation>
+    </Manufacturer>
+    <Crew />
+  </Plane>
+</ArrayOfPlane>

@@ -1,0 +1,10 @@
+D:\Программирование\4_сем\ООП\draft\draft\draft\bin\Debug\draft.exe.config
+D:\Программирование\4_сем\ООП\draft\draft\draft\bin\Debug\draft.exe
+D:\Программирование\4_сем\ООП\draft\draft\draft\bin\Debug\draft.pdb
+D:\Программирование\4_сем\ООП\draft\draft\draft\obj\Debug\draft.csproj.AssemblyReference.cache
+D:\Программирование\4_сем\ООП\draft\draft\draft\obj\Debug\draft.login_form.resources
+D:\Программирование\4_сем\ООП\draft\draft\draft\obj\Debug\draft.Properties.Resources.resources
+D:\Программирование\4_сем\ООП\draft\draft\draft\obj\Debug\draft.csproj.GenerateResource.cache
+D:\Программирование\4_сем\ООП\draft\draft\draft\obj\Debug\draft.csproj.CoreCompileInputs.cache
+D:\Программирование\4_сем\ООП\draft\draft\draft\obj\Debug\draft.exe
+D:\Программирование\4_сем\ООП\draft\draft\draft\obj\Debug\draft.pdb

@@ -1,0 +1,11 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <SolidColorBrush x:Key="WindowBrush" Color="#FFF0F5"/>
+    <!-- LavenderBlush -->
+    <SolidColorBrush x:Key="CardBrush" Color="White"/>
+    <SolidColorBrush x:Key="PrimaryBrush" Color="#FF69B4"/>
+    <!-- HotPink -->
+    <SolidColorBrush x:Key="DarkBrush" Color="#C71585"/>
+    <SolidColorBrush x:Key="TextBrush" Color="#4B0082"/>
+    <SolidColorBrush x:Key="DangerBrush" Color="#FF1493"/>
+</ResourceDictionary>
