@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ArrayOfPlane xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Plane>
+    <ID>AA-1111</ID>
+    <Model>MC-21</Model>
+    <Year>1900</Year>
+    <LastMaintenance>2026-03-09T18:54:51.9558567+03:00</LastMaintenance>
+    <Type>Пассажирский</Type>
+    <PassengerSeats>100</PassengerSeats>
+    <Payload>105</Payload>
+    <Manufacturer>
+      <Name />
+      <Country />
+      <YearOfFoundation>1800</YearOfFoundation>
+    </Manufacturer>
+    <Crew />
+  </Plane>
+</ArrayOfPlane>

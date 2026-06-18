@@ -1,0 +1,149 @@
+[
+  {
+    "Id": 1,
+    "ShortName": "Йога",
+    "FullName": "Йога для начинающих",
+    "Description": "Расслабляющие занятия йогой.",
+    "Images": [
+      "C:\\Users\\user\\Pictures\\Обои\\pxfuel.jpg"
+    ],
+    "Category": "Групповые",
+    "Rating": 4.8,
+    "Price": 1500.0,
+    "DiscountPercent": 10,
+    "InStock": true,
+    "Quantity": 0,
+    "Color": "",
+    "Size": "",
+    "RelatedServices": [],
+    "PurchaseCount": 120,
+    "Country": "Россия",
+    "Manufacturer": "FitnessClub Pro"
+  },
+  {
+    "Id": 4,
+    "ShortName": "Баскетбол",
+    "FullName": "",
+    "Description": "",
+    "Images": [
+      "C:\\Users\\user\\Pictures\\Обои\\wallpaperbetter.com_1920x1080 (11).jpg"
+    ],
+    "Category": "Силовые",
+    "Rating": 5.0,
+    "Price": 1000.0,
+    "DiscountPercent": 5,
+    "InStock": true,
+    "Quantity": 0,
+    "Color": "",
+    "Size": "",
+    "RelatedServices": [],
+    "PurchaseCount": 0,
+    "Country": "",
+    "Manufacturer": ""
+  },
+  {
+    "Id": 6,
+    "ShortName": "Хоккей",
+    "FullName": "Хоккей",
+    "Description": "тыпырдыарды",
+    "Images": [
+      "C:\\Users\\user\\Pictures\\Обои\\wallpaperbetter.com_1920x1080 (8).jpg"
+    ],
+    "Category": "Групповые",
+    "Rating": 4.0,
+    "Price": 1000.0,
+    "DiscountPercent": 2,
+    "InStock": true,
+    "Quantity": 100,
+    "Color": "",
+    "Size": "",
+    "RelatedServices": [],
+    "PurchaseCount": 0,
+    "Country": "",
+    "Manufacturer": ""
+  },
+  {
+    "Id": 7,
+    "ShortName": "ощплаьд",
+    "FullName": "аямвс",
+    "Description": "",
+    "Images": [
+      "C:\\Users\\user\\Pictures\\Обои\\pxfuel (1).jpg"
+    ],
+    "Category": "Индивидуальные",
+    "Rating": 2.0,
+    "Price": 500.0,
+    "DiscountPercent": 2,
+    "InStock": true,
+    "Quantity": 100,
+    "Color": "",
+    "Size": "",
+    "RelatedServices": [],
+    "PurchaseCount": 0,
+    "Country": "",
+    "Manufacturer": ""
+  },
+  {
+    "Id": 5,
+    "ShortName": "вв",
+    "FullName": "ввв",
+    "Description": "вввв",
+    "Images": [
+      "C:\\Users\\user\\Pictures\\Обои\\pxfuel (1).jpg"
+    ],
+    "Category": "Водные",
+    "Rating": 5.0,
+    "Price": 2000.0,
+    "DiscountPercent": 5,
+    "InStock": true,
+    "Quantity": 0,
+    "Color": "",
+    "Size": "",
+    "RelatedServices": [],
+    "PurchaseCount": 0,
+    "Country": "паа",
+    "Manufacturer": "тчст"
+  },
+  {
+    "Id": 4,
+    "ShortName": "Бассейн",
+    "FullName": "Плавание в бассейне",
+    "Description": "Занятия в крытом бассейне.",
+    "Images": [
+      "C:\\Users\\user\\Pictures\\Camera Roll\\photo_2025-11-26_12-05-21.jpg"
+    ],
+    "Category": "Водные",
+    "Rating": 4.9,
+    "Price": 2000.0,
+    "DiscountPercent": 15,
+    "InStock": true,
+    "Quantity": 0,
+    "Color": "",
+    "Size": "",
+    "RelatedServices": [],
+    "PurchaseCount": 80,
+    "Country": "Россия",
+    "Manufacturer": "FitnessClub Pro"
+  },
+  {
+    "Id": 3,
+    "ShortName": "Персональная",
+    "FullName": "Персональная тренировка",
+    "Description": "Индивидуальный подход с тренером.",
+    "Images": [
+      "C:\\Users\\user\\Pictures\\Обои\\pxfuel (2).jpg"
+    ],
+    "Category": "Индивидуальные",
+    "Rating": 5.0,
+    "Price": 3500.0,
+    "DiscountPercent": 5,
+    "InStock": true,
+    "Quantity": 0,
+    "Color": "",
+    "Size": "",
+    "RelatedServices": [],
+    "PurchaseCount": 60,
+    "Country": "Россия",
+    "Manufacturer": "FitnessClub Pro"
+  }
+]

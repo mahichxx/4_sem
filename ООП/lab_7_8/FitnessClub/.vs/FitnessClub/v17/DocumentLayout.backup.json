@@ -1,0 +1,537 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u041E\u041E\u041F\\lab_7_8\\FitnessClub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44F13CB6-F4CF-4F9C-8A65-9A84A82B8169}|FitnessClub\\FitnessClub.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u043E\u043E\u043F\\lab_7_8\\fitnessclub\\fitnessclub\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{44F13CB6-F4CF-4F9C-8A65-9A84A82B8169}|FitnessClub\\FitnessClub.csproj|solutionrelative:fitnessclub\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F13CB6-F4CF-4F9C-8A65-9A84A82B8169}|FitnessClub\\FitnessClub.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u043E\u043E\u043F\\lab_7_8\\fitnessclub\\fitnessclub\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F13CB6-F4CF-4F9C-8A65-9A84A82B8169}|FitnessClub\\FitnessClub.csproj|solutionrelative:fitnessclub\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F13CB6-F4CF-4F9C-8A65-9A84A82B8169}|FitnessClub\\FitnessClub.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u043E\u043E\u043F\\lab_7_8\\fitnessclub\\fitnessclub\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F13CB6-F4CF-4F9C-8A65-9A84A82B8169}|FitnessClub\\FitnessClub.csproj|solutionrelative:fitnessclub\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F13CB6-F4CF-4F9C-8A65-9A84A82B8169}|FitnessClub\\FitnessClub.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u043E\u043E\u043F\\lab_7_8\\fitnessclub\\fitnessclub\\quantityselectorcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F13CB6-F4CF-4F9C-8A65-9A84A82B8169}|FitnessClub\\FitnessClub.csproj|solutionrelative:fitnessclub\\quantityselectorcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F13CB6-F4CF-4F9C-8A65-9A84A82B8169}|FitnessClub\\FitnessClub.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u043E\u043E\u043F\\lab_7_8\\fitnessclub\\fitnessclub\\quantityselectorcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{44F13CB6-F4CF-4F9C-8A65-9A84A82B8169}|FitnessClub\\FitnessClub.csproj|solutionrelative:fitnessclub\\quantityselectorcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F13CB6-F4CF-4F9C-8A65-9A84A82B8169}|FitnessClub\\FitnessClub.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u043E\u043E\u043F\\lab_7_8\\fitnessclub\\fitnessclub\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{44F13CB6-F4CF-4F9C-8A65-9A84A82B8169}|FitnessClub\\FitnessClub.csproj|solutionrelative:fitnessclub\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F13CB6-F4CF-4F9C-8A65-9A84A82B8169}|FitnessClub\\FitnessClub.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u043E\u043E\u043F\\lab_7_8\\fitnessclub\\fitnessclub\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F13CB6-F4CF-4F9C-8A65-9A84A82B8169}|FitnessClub\\FitnessClub.csproj|solutionrelative:fitnessclub\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F13CB6-F4CF-4F9C-8A65-9A84A82B8169}|FitnessClub\\FitnessClub.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u043E\u043E\u043F\\lab_7_8\\fitnessclub\\fitnessclub\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F13CB6-F4CF-4F9C-8A65-9A84A82B8169}|FitnessClub\\FitnessClub.csproj|solutionrelative:fitnessclub\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F13CB6-F4CF-4F9C-8A65-9A84A82B8169}|FitnessClub\\FitnessClub.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u043E\u043E\u043F\\lab_7_8\\fitnessclub\\fitnessclub\\servicecardcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{44F13CB6-F4CF-4F9C-8A65-9A84A82B8169}|FitnessClub\\FitnessClub.csproj|solutionrelative:fitnessclub\\servicecardcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\AppData\\Local\\Temp\\zqmo1200..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F13CB6-F4CF-4F9C-8A65-9A84A82B8169}|FitnessClub\\FitnessClub.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u043E\u043E\u043F\\lab_7_8\\fitnessclub\\fitnessclub\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F13CB6-F4CF-4F9C-8A65-9A84A82B8169}|FitnessClub\\FitnessClub.csproj|solutionrelative:fitnessclub\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F13CB6-F4CF-4F9C-8A65-9A84A82B8169}|FitnessClub\\FitnessClub.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u043E\u043E\u043F\\lab_7_8\\fitnessclub\\fitnessclub\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F13CB6-F4CF-4F9C-8A65-9A84A82B8169}|FitnessClub\\FitnessClub.csproj|solutionrelative:fitnessclub\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F13CB6-F4CF-4F9C-8A65-9A84A82B8169}|FitnessClub\\FitnessClub.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u043E\u043E\u043F\\lab_7_8\\fitnessclub\\fitnessclub\\serviceeditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F13CB6-F4CF-4F9C-8A65-9A84A82B8169}|FitnessClub\\FitnessClub.csproj|solutionrelative:fitnessclub\\serviceeditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F13CB6-F4CF-4F9C-8A65-9A84A82B8169}|FitnessClub\\FitnessClub.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u043E\u043E\u043F\\lab_7_8\\fitnessclub\\fitnessclub\\serviceeditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{44F13CB6-F4CF-4F9C-8A65-9A84A82B8169}|FitnessClub\\FitnessClub.csproj|solutionrelative:fitnessclub\\serviceeditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F13CB6-F4CF-4F9C-8A65-9A84A82B8169}|FitnessClub\\FitnessClub.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u043E\u043E\u043F\\lab_7_8\\fitnessclub\\fitnessclub\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{44F13CB6-F4CF-4F9C-8A65-9A84A82B8169}|FitnessClub\\FitnessClub.csproj|solutionrelative:fitnessclub\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F13CB6-F4CF-4F9C-8A65-9A84A82B8169}|FitnessClub\\FitnessClub.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u043E\u043E\u043F\\lab_7_8\\fitnessclub\\fitnessclub\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F13CB6-F4CF-4F9C-8A65-9A84A82B8169}|FitnessClub\\FitnessClub.csproj|solutionrelative:fitnessclub\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F13CB6-F4CF-4F9C-8A65-9A84A82B8169}|FitnessClub\\FitnessClub.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u043E\u043E\u043F\\lab_7_8\\fitnessclub\\fitnessclub\\appcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F13CB6-F4CF-4F9C-8A65-9A84A82B8169}|FitnessClub\\FitnessClub.csproj|solutionrelative:fitnessclub\\appcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F13CB6-F4CF-4F9C-8A65-9A84A82B8169}|FitnessClub\\FitnessClub.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u043E\u043E\u043F\\lab_7_8\\fitnessclub\\fitnessclub\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{44F13CB6-F4CF-4F9C-8A65-9A84A82B8169}|FitnessClub\\FitnessClub.csproj|solutionrelative:fitnessclub\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F13CB6-F4CF-4F9C-8A65-9A84A82B8169}|FitnessClub\\FitnessClub.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u043E\u043E\u043F\\lab_7_8\\fitnessclub\\fitnessclub\\cardfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F13CB6-F4CF-4F9C-8A65-9A84A82B8169}|FitnessClub\\FitnessClub.csproj|solutionrelative:fitnessclub\\cardfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F13CB6-F4CF-4F9C-8A65-9A84A82B8169}|FitnessClub\\FitnessClub.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u043E\u043E\u043F\\lab_7_8\\fitnessclub\\fitnessclub\\strings.en.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{44F13CB6-F4CF-4F9C-8A65-9A84A82B8169}|FitnessClub\\FitnessClub.csproj|solutionrelative:fitnessclub\\strings.en.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F13CB6-F4CF-4F9C-8A65-9A84A82B8169}|FitnessClub\\FitnessClub.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u043E\u043E\u043F\\lab_7_8\\fitnessclub\\fitnessclub\\servicedetailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{44F13CB6-F4CF-4F9C-8A65-9A84A82B8169}|FitnessClub\\FitnessClub.csproj|solutionrelative:fitnessclub\\servicedetailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F13CB6-F4CF-4F9C-8A65-9A84A82B8169}|FitnessClub\\FitnessClub.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u043E\u043E\u043F\\lab_7_8\\fitnessclub\\fitnessclub\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F13CB6-F4CF-4F9C-8A65-9A84A82B8169}|FitnessClub\\FitnessClub.csproj|solutionrelative:fitnessclub\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F13CB6-F4CF-4F9C-8A65-9A84A82B8169}|FitnessClub\\FitnessClub.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u043E\u043E\u043F\\lab_7_8\\fitnessclub\\fitnessclub\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{44F13CB6-F4CF-4F9C-8A65-9A84A82B8169}|FitnessClub\\FitnessClub.csproj|solutionrelative:fitnessclub\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F13CB6-F4CF-4F9C-8A65-9A84A82B8169}|FitnessClub\\FitnessClub.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u043E\u043E\u043F\\lab_7_8\\fitnessclub\\fitnessclub\\userprofilewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{44F13CB6-F4CF-4F9C-8A65-9A84A82B8169}|FitnessClub\\FitnessClub.csproj|solutionrelative:fitnessclub\\userprofilewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F13CB6-F4CF-4F9C-8A65-9A84A82B8169}|FitnessClub\\FitnessClub.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u043E\u043E\u043F\\lab_7_8\\fitnessclub\\fitnessclub\\strings.ru.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{44F13CB6-F4CF-4F9C-8A65-9A84A82B8169}|FitnessClub\\FitnessClub.csproj|solutionrelative:fitnessclub\\strings.ru.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F13CB6-F4CF-4F9C-8A65-9A84A82B8169}|FitnessClub\\FitnessClub.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u043E\u043E\u043F\\lab_7_8\\fitnessclub\\fitnessclub\\userprofilewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F13CB6-F4CF-4F9C-8A65-9A84A82B8169}|FitnessClub\\FitnessClub.csproj|solutionrelative:fitnessclub\\userprofilewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F13CB6-F4CF-4F9C-8A65-9A84A82B8169}|FitnessClub\\FitnessClub.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u043E\u043E\u043F\\lab_7_8\\fitnessclub\\fitnessclub\\themes\\pinktheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{44F13CB6-F4CF-4F9C-8A65-9A84A82B8169}|FitnessClub\\FitnessClub.csproj|solutionrelative:fitnessclub\\themes\\pinktheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F13CB6-F4CF-4F9C-8A65-9A84A82B8169}|FitnessClub\\FitnessClub.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u043E\u043E\u043F\\lab_7_8\\fitnessclub\\fitnessclub\\themes\\lighttheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{44F13CB6-F4CF-4F9C-8A65-9A84A82B8169}|FitnessClub\\FitnessClub.csproj|solutionrelative:fitnessclub\\themes\\lighttheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F13CB6-F4CF-4F9C-8A65-9A84A82B8169}|FitnessClub\\FitnessClub.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u043E\u043E\u043F\\lab_7_8\\fitnessclub\\fitnessclub\\themes\\darktheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{44F13CB6-F4CF-4F9C-8A65-9A84A82B8169}|FitnessClub\\FitnessClub.csproj|solutionrelative:fitnessclub\\themes\\darktheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u041E\u041E\u041F\\lab_7_8\\FitnessClub\\FitnessClub\\bin\\Debug\\net8.0-windows\\data\\services.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FitnessClub\\bin\\Debug\\net8.0-windows\\data\\services.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 476,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseService.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u041E\u041E\u041F\\lab_7_8\\FitnessClub\\FitnessClub\\DatabaseService.cs",
+              "RelativeDocumentMoniker": "FitnessClub\\DatabaseService.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u041E\u041E\u041F\\lab_7_8\\FitnessClub\\FitnessClub\\DatabaseService.cs",
+              "RelativeToolTip": "FitnessClub\\DatabaseService.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAgwFUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T12:27:47.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u041E\u041E\u041F\\lab_7_8\\FitnessClub\\FitnessClub\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FitnessClub\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u041E\u041E\u041F\\lab_7_8\\FitnessClub\\FitnessClub\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "FitnessClub\\MainWindow.xaml.cs*",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAUwF0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T01:26:40.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u041E\u041E\u041F\\lab_7_8\\FitnessClub\\FitnessClub\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "FitnessClub\\MainWindow.xaml",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u041E\u041E\u041F\\lab_7_8\\FitnessClub\\FitnessClub\\MainWindow.xaml",
+              "RelativeToolTip": "FitnessClub\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-23T08:52:01.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuantitySelectorControl.xaml.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u041E\u041E\u041F\\lab_7_8\\FitnessClub\\FitnessClub\\QuantitySelectorControl.xaml.cs",
+              "RelativeDocumentMoniker": "FitnessClub\\QuantitySelectorControl.xaml.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u041E\u041E\u041F\\lab_7_8\\FitnessClub\\FitnessClub\\QuantitySelectorControl.xaml.cs",
+              "RelativeToolTip": "FitnessClub\\QuantitySelectorControl.xaml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCoAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T23:21:38.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QuantitySelectorControl.xaml",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u041E\u041E\u041F\\lab_7_8\\FitnessClub\\FitnessClub\\QuantitySelectorControl.xaml",
+              "RelativeDocumentMoniker": "FitnessClub\\QuantitySelectorControl.xaml",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u041E\u041E\u041F\\lab_7_8\\FitnessClub\\FitnessClub\\QuantitySelectorControl.xaml",
+              "RelativeToolTip": "FitnessClub\\QuantitySelectorControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-03T23:21:24.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u041E\u041E\u041F\\lab_7_8\\FitnessClub\\FitnessClub\\App.config",
+              "RelativeDocumentMoniker": "FitnessClub\\App.config",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u041E\u041E\u041F\\lab_7_8\\FitnessClub\\FitnessClub\\App.config",
+              "RelativeToolTip": "FitnessClub\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-04-22T01:16:18.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u041E\u041E\u041F\\lab_7_8\\FitnessClub\\FitnessClub\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "FitnessClub\\MainViewModel.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u041E\u041E\u041F\\lab_7_8\\FitnessClub\\FitnessClub\\MainViewModel.cs",
+              "RelativeToolTip": "FitnessClub\\MainViewModel.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAvwDwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T01:06:48.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u041E\u041E\u041F\\lab_7_8\\FitnessClub\\FitnessClub\\App.xaml.cs",
+              "RelativeDocumentMoniker": "FitnessClub\\App.xaml.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u041E\u041E\u041F\\lab_7_8\\FitnessClub\\FitnessClub\\App.xaml.cs",
+              "RelativeToolTip": "FitnessClub\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T01:29:10.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ServiceCardControl.xaml",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u041E\u041E\u041F\\lab_7_8\\FitnessClub\\FitnessClub\\ServiceCardControl.xaml",
+              "RelativeDocumentMoniker": "FitnessClub\\ServiceCardControl.xaml",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u041E\u041E\u041F\\lab_7_8\\FitnessClub\\FitnessClub\\ServiceCardControl.xaml",
+              "RelativeToolTip": "FitnessClub\\ServiceCardControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-23T16:11:50.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "zqmo1200..sql",
+              "DocumentMoniker": "C:\\Users\\user\\AppData\\Local\\Temp\\zqmo1200..sql",
+              "ToolTip": "C:\\Users\\user\\AppData\\Local\\Temp\\zqmo1200..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-05-11T13:47:52.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataService.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u041E\u041E\u041F\\lab_7_8\\FitnessClub\\FitnessClub\\DataService.cs",
+              "RelativeDocumentMoniker": "FitnessClub\\DataService.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u041E\u041E\u041F\\lab_7_8\\FitnessClub\\FitnessClub\\DataService.cs",
+              "RelativeToolTip": "FitnessClub\\DataService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T09:18:44.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Service.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u041E\u041E\u041F\\lab_7_8\\FitnessClub\\FitnessClub\\Service.cs",
+              "RelativeDocumentMoniker": "FitnessClub\\Service.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u041E\u041E\u041F\\lab_7_8\\FitnessClub\\FitnessClub\\Service.cs",
+              "RelativeToolTip": "FitnessClub\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T09:18:20.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u041E\u041E\u041F\\lab_7_8\\FitnessClub\\FitnessClub\\App.xaml",
+              "RelativeDocumentMoniker": "FitnessClub\\App.xaml",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u041E\u041E\u041F\\lab_7_8\\FitnessClub\\FitnessClub\\App.xaml",
+              "RelativeToolTip": "FitnessClub\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-22T01:07:03.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ServiceEditWindow.xaml",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u041E\u041E\u041F\\lab_7_8\\FitnessClub\\FitnessClub\\ServiceEditWindow.xaml",
+              "RelativeDocumentMoniker": "FitnessClub\\ServiceEditWindow.xaml",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u041E\u041E\u041F\\lab_7_8\\FitnessClub\\FitnessClub\\ServiceEditWindow.xaml",
+              "RelativeToolTip": "FitnessClub\\ServiceEditWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-23T09:18:17.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ServiceEditWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u041E\u041E\u041F\\lab_7_8\\FitnessClub\\FitnessClub\\ServiceEditWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FitnessClub\\ServiceEditWindow.xaml.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u041E\u041E\u041F\\lab_7_8\\FitnessClub\\FitnessClub\\ServiceEditWindow.xaml.cs",
+              "RelativeToolTip": "FitnessClub\\ServiceEditWindow.xaml.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAkwFcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T22:43:41.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u041E\u041E\u041F\\lab_7_8\\FitnessClub\\FitnessClub\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "FitnessClub\\BaseViewModel.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u041E\u041E\u041F\\lab_7_8\\FitnessClub\\FitnessClub\\BaseViewModel.cs",
+              "RelativeToolTip": "FitnessClub\\BaseViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T09:18:47.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppCommands.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u041E\u041E\u041F\\lab_7_8\\FitnessClub\\FitnessClub\\AppCommands.cs",
+              "RelativeDocumentMoniker": "FitnessClub\\AppCommands.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u041E\u041E\u041F\\lab_7_8\\FitnessClub\\FitnessClub\\AppCommands.cs",
+              "RelativeToolTip": "FitnessClub\\AppCommands.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T23:20:30.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u041E\u041E\u041F\\lab_7_8\\FitnessClub\\FitnessClub\\packages.config",
+              "RelativeDocumentMoniker": "FitnessClub\\packages.config",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u041E\u041E\u041F\\lab_7_8\\FitnessClub\\FitnessClub\\packages.config",
+              "RelativeToolTip": "FitnessClub\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-04-23T09:18:33.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CardFactory.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u041E\u041E\u041F\\lab_7_8\\FitnessClub\\FitnessClub\\CardFactory.cs",
+              "RelativeDocumentMoniker": "FitnessClub\\CardFactory.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u041E\u041E\u041F\\lab_7_8\\FitnessClub\\FitnessClub\\CardFactory.cs",
+              "RelativeToolTip": "FitnessClub\\CardFactory.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAmwFcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T08:51:41.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Strings.en.xaml",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u041E\u041E\u041F\\lab_7_8\\FitnessClub\\FitnessClub\\Strings.en.xaml",
+              "RelativeDocumentMoniker": "FitnessClub\\Strings.en.xaml",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u041E\u041E\u041F\\lab_7_8\\FitnessClub\\FitnessClub\\Strings.en.xaml",
+              "RelativeToolTip": "FitnessClub\\Strings.en.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-23T09:18:14.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ServiceDetailWindow.xaml",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u041E\u041E\u041F\\lab_7_8\\FitnessClub\\FitnessClub\\ServiceDetailWindow.xaml",
+              "RelativeDocumentMoniker": "FitnessClub\\ServiceDetailWindow.xaml",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u041E\u041E\u041F\\lab_7_8\\FitnessClub\\FitnessClub\\ServiceDetailWindow.xaml",
+              "RelativeToolTip": "FitnessClub\\ServiceDetailWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-23T09:18:18.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u041E\u041E\u041F\\lab_7_8\\FitnessClub\\FitnessClub\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "FitnessClub\\RelayCommand.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u041E\u041E\u041F\\lab_7_8\\FitnessClub\\FitnessClub\\RelayCommand.cs",
+              "RelativeToolTip": "FitnessClub\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T09:18:20.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u041E\u041E\u041F\\lab_7_8\\FitnessClub\\FitnessClub\\Styles.xaml",
+              "RelativeDocumentMoniker": "FitnessClub\\Styles.xaml",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u041E\u041E\u041F\\lab_7_8\\FitnessClub\\FitnessClub\\Styles.xaml",
+              "RelativeToolTip": "FitnessClub\\Styles.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-22T01:04:59.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserProfileWindow.xaml",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u041E\u041E\u041F\\lab_7_8\\FitnessClub\\FitnessClub\\UserProfileWindow.xaml",
+              "RelativeDocumentMoniker": "FitnessClub\\UserProfileWindow.xaml",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u041E\u041E\u041F\\lab_7_8\\FitnessClub\\FitnessClub\\UserProfileWindow.xaml",
+              "RelativeToolTip": "FitnessClub\\UserProfileWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-23T15:47:48.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserProfileWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u041E\u041E\u041F\\lab_7_8\\FitnessClub\\FitnessClub\\UserProfileWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FitnessClub\\UserProfileWindow.xaml.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u041E\u041E\u041F\\lab_7_8\\FitnessClub\\FitnessClub\\UserProfileWindow.xaml.cs",
+              "RelativeToolTip": "FitnessClub\\UserProfileWindow.xaml.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAD4vzcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T16:10:41.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Strings.ru.xaml",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u041E\u041E\u041F\\lab_7_8\\FitnessClub\\FitnessClub\\Strings.ru.xaml",
+              "RelativeDocumentMoniker": "FitnessClub\\Strings.ru.xaml",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u041E\u041E\u041F\\lab_7_8\\FitnessClub\\FitnessClub\\Strings.ru.xaml",
+              "RelativeToolTip": "FitnessClub\\Strings.ru.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-23T09:18:15.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PinkTheme.xaml",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u041E\u041E\u041F\\lab_7_8\\FitnessClub\\FitnessClub\\Themes\\PinkTheme.xaml",
+              "RelativeDocumentMoniker": "FitnessClub\\Themes\\PinkTheme.xaml",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u041E\u041E\u041F\\lab_7_8\\FitnessClub\\FitnessClub\\Themes\\PinkTheme.xaml",
+              "RelativeToolTip": "FitnessClub\\Themes\\PinkTheme.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-23T15:40:25.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LightTheme.xaml",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u041E\u041E\u041F\\lab_7_8\\FitnessClub\\FitnessClub\\Themes\\LightTheme.xaml",
+              "RelativeDocumentMoniker": "FitnessClub\\Themes\\LightTheme.xaml",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u041E\u041E\u041F\\lab_7_8\\FitnessClub\\FitnessClub\\Themes\\LightTheme.xaml",
+              "RelativeToolTip": "FitnessClub\\Themes\\LightTheme.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-22T01:04:17.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DarkTheme.xaml",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u041E\u041E\u041F\\lab_7_8\\FitnessClub\\FitnessClub\\Themes\\DarkTheme.xaml",
+              "RelativeDocumentMoniker": "FitnessClub\\Themes\\DarkTheme.xaml",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u041E\u041E\u041F\\lab_7_8\\FitnessClub\\FitnessClub\\Themes\\DarkTheme.xaml",
+              "RelativeToolTip": "FitnessClub\\Themes\\DarkTheme.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-22T01:04:43.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "services.json",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u041E\u041E\u041F\\lab_7_8\\FitnessClub\\FitnessClub\\bin\\Debug\\net8.0-windows\\data\\services.json",
+              "RelativeDocumentMoniker": "FitnessClub\\bin\\Debug\\net8.0-windows\\data\\services.json",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u041E\u041E\u041F\\lab_7_8\\FitnessClub\\FitnessClub\\bin\\Debug\\net8.0-windows\\data\\services.json",
+              "RelativeToolTip": "FitnessClub\\bin\\Debug\\net8.0-windows\\data\\services.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-23T10:28:36.385Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 74,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

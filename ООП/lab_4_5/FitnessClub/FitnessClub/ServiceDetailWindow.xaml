@@ -1,0 +1,81 @@
+﻿<Window x:Class="FitnessClub.ServiceDetailWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="{DynamicResource AppTitle}"
+        Width="500" Height="600"
+        WindowStartupLocation="CenterOwner"
+        Background="{StaticResource LightBrush}">
+    <ScrollViewer VerticalScrollBarVisibility="Auto">
+        <StackPanel Margin="24">
+
+            <TextBlock x:Name="TxtFullName"
+                       Style="{StaticResource TitleText}"
+                       TextWrapping="Wrap" Margin="0,0,0,8"/>
+
+            <StackPanel Orientation="Horizontal" Margin="0,0,0,4">
+                <TextBlock Text="{DynamicResource DetailCategory}"
+                           FontWeight="Bold" Margin="0,0,4,0"/>
+                <TextBlock x:Name="TxtCategory" Foreground="Gray"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Margin="0,0,0,4">
+                <TextBlock Text="{DynamicResource DetailRating}"
+                           FontWeight="Bold" Margin="0,0,4,0"/>
+                <TextBlock x:Name="TxtRating"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Margin="0,0,0,4">
+                <TextBlock Text="{DynamicResource DetailPrice}"
+                           FontWeight="Bold" Margin="0,0,4,0"/>
+                <TextBlock x:Name="TxtPrice"
+                           FontSize="16" FontWeight="Bold"
+                           Foreground="{StaticResource PrimaryBrush}"/>
+            </StackPanel>
+
+            <TextBlock x:Name="TxtDiscount"
+                       Foreground="OrangeRed" FontSize="13" Margin="0,0,0,4"/>
+
+            <TextBlock x:Name="TxtStock" FontSize="13" Margin="0,0,0,8"/>
+
+            <Separator Margin="0,8"/>
+
+            <TextBlock Text="{DynamicResource DetailDescription}"
+                       FontWeight="Bold" FontSize="14"/>
+            <TextBlock x:Name="TxtDescription"
+                       TextWrapping="Wrap" FontSize="13" Margin="0,4,0,8"/>
+
+            <Separator Margin="0,8"/>
+
+            <StackPanel Orientation="Horizontal" Margin="0,2">
+                <TextBlock Text="{DynamicResource DetailCountry}"
+                           FontWeight="Bold" Margin="0,0,4,0"/>
+                <TextBlock x:Name="TxtCountry"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Margin="0,2">
+                <TextBlock Text="{DynamicResource DetailManufacturer}"
+                           FontWeight="Bold" Margin="0,0,4,0"/>
+                <TextBlock x:Name="TxtManufacturer"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Margin="0,2">
+                <TextBlock Text="{DynamicResource DetailPurchased}"
+                           FontWeight="Bold" Margin="0,0,4,0"/>
+                <TextBlock x:Name="TxtPurchaseCount"/>
+            </StackPanel>
+
+            <Separator Margin="0,8"/>
+
+            <StackPanel Orientation="Horizontal" Margin="0,8,0,0">
+                <Button Content="{DynamicResource BtnEdit}"
+                        Style="{StaticResource PrimaryButton}"
+                        Margin="0,0,8,0"
+                        Click="BtnEdit_Click"/>
+                <Button Content="{DynamicResource BtnDelete}"
+                        Style="{StaticResource DangerButton}"
+                        Click="BtnDelete_Click"/>
+            </StackPanel>
+
+        </StackPanel>
+    </ScrollViewer>
+</Window>

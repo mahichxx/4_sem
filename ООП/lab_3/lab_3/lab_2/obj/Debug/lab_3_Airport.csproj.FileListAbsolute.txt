@@ -1,0 +1,11 @@
+D:\Программирование\4_сем\ООП\lab_3\lab_3\lab_2\bin\Debug\lab_3_Airport.exe.config
+D:\Программирование\4_сем\ООП\lab_3\lab_3\lab_2\bin\Debug\lab_3_Airport.exe
+D:\Программирование\4_сем\ООП\lab_3\lab_3\lab_2\bin\Debug\lab_3_Airport.pdb
+D:\Программирование\4_сем\ООП\lab_3\lab_3\lab_2\obj\Debug\lab_3_Airport.csproj.AssemblyReference.cache
+D:\Программирование\4_сем\ООП\lab_3\lab_3\lab_2\obj\Debug\lab_2_Airport.listCrew.resources
+D:\Программирование\4_сем\ООП\lab_3\lab_3\lab_2\obj\Debug\lab_3_Airport.Properties.Resources.resources
+D:\Программирование\4_сем\ООП\lab_3\lab_3\lab_2\obj\Debug\lab_2_Airport.SearchForm.resources
+D:\Программирование\4_сем\ООП\lab_3\lab_3\lab_2\obj\Debug\lab_3_Airport.csproj.GenerateResource.cache
+D:\Программирование\4_сем\ООП\lab_3\lab_3\lab_2\obj\Debug\lab_3_Airport.csproj.CoreCompileInputs.cache
+D:\Программирование\4_сем\ООП\lab_3\lab_3\lab_2\obj\Debug\lab_3_Airport.exe
+D:\Программирование\4_сем\ООП\lab_3\lab_3\lab_2\obj\Debug\lab_3_Airport.pdb

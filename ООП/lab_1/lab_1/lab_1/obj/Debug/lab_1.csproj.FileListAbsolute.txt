@@ -1,0 +1,10 @@
+D:\Программирование\4_сем\ООП\lab_1\lab_1\lab_1\bin\Debug\lab_1.exe.config
+D:\Программирование\4_сем\ООП\lab_1\lab_1\lab_1\bin\Debug\lab_1.exe
+D:\Программирование\4_сем\ООП\lab_1\lab_1\lab_1\bin\Debug\lab_1.pdb
+D:\Программирование\4_сем\ООП\lab_1\lab_1\lab_1\obj\Debug\lab_1.csproj.AssemblyReference.cache
+D:\Программирование\4_сем\ООП\lab_1\lab_1\lab_1\obj\Debug\lab_1.Form1.resources
+D:\Программирование\4_сем\ООП\lab_1\lab_1\lab_1\obj\Debug\lab_1.Properties.Resources.resources
+D:\Программирование\4_сем\ООП\lab_1\lab_1\lab_1\obj\Debug\lab_1.csproj.GenerateResource.cache
+D:\Программирование\4_сем\ООП\lab_1\lab_1\lab_1\obj\Debug\lab_1.csproj.CoreCompileInputs.cache
+D:\Программирование\4_сем\ООП\lab_1\lab_1\lab_1\obj\Debug\lab_1.exe
+D:\Программирование\4_сем\ООП\lab_1\lab_1\lab_1\obj\Debug\lab_1.pdb
