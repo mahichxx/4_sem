@@ -1,0 +1,8 @@
+{
+	"Celebrities": {
+		"PhotosRequestPath": "/Photos",
+		"PhotoPath": "D:\\Программирование\\4_сем\\ТПВИ\\lab_8\\лаба_8\\ASPA008_1\\Photos",
+		"ConnectionString": "Server=(localdb)\\MSSQLLocalDB;Database=LES01;Trusted_Connection=True;TrustServerCertificate=True",
+		"ISO3166alpha2Path": "D:\\Программирование\\4_сем\\ТПВИ\\lab_8\\лаба_8\\ASPA008_1\\CountryCodes\\iso3166-1-alpha2-country-codes.json"
+	}
+}

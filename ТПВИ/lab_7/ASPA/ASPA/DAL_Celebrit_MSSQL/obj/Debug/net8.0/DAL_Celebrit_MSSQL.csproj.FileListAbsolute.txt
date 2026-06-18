@@ -1,0 +1,30 @@
+D:\labs TPvI\lab7\ASPA\DAL_Celebrit_MSSQL\bin\Debug\net8.0\DAL_Celebrit_MSSQL.deps.json
+D:\labs TPvI\lab7\ASPA\DAL_Celebrit_MSSQL\bin\Debug\net8.0\DAL_Celebrit_MSSQL.dll
+D:\labs TPvI\lab7\ASPA\DAL_Celebrit_MSSQL\bin\Debug\net8.0\DAL_Celebrit_MSSQL.pdb
+D:\labs TPvI\lab7\ASPA\DAL_Celebrit_MSSQL\bin\Debug\net8.0\DAL_Celebrity.dll
+D:\labs TPvI\lab7\ASPA\DAL_Celebrit_MSSQL\bin\Debug\net8.0\DAL_Celebrity.pdb
+D:\labs TPvI\lab7\ASPA\DAL_Celebrit_MSSQL\obj\Debug\net8.0\DAL_Celebrit_MSSQL.csproj.AssemblyReference.cache
+D:\labs TPvI\lab7\ASPA\DAL_Celebrit_MSSQL\obj\Debug\net8.0\DAL_Celebrit_MSSQL.GeneratedMSBuildEditorConfig.editorconfig
+D:\labs TPvI\lab7\ASPA\DAL_Celebrit_MSSQL\obj\Debug\net8.0\DAL_Celebrit_MSSQL.AssemblyInfoInputs.cache
+D:\labs TPvI\lab7\ASPA\DAL_Celebrit_MSSQL\obj\Debug\net8.0\DAL_Celebrit_MSSQL.AssemblyInfo.cs
+D:\labs TPvI\lab7\ASPA\DAL_Celebrit_MSSQL\obj\Debug\net8.0\DAL_Celebrit_MSSQL.csproj.CoreCompileInputs.cache
+D:\labs TPvI\lab7\ASPA\DAL_Celebrit_MSSQL\obj\Debug\net8.0\DAL_Cele.E5AA0F30.Up2Date
+D:\labs TPvI\lab7\ASPA\DAL_Celebrit_MSSQL\obj\Debug\net8.0\DAL_Celebrit_MSSQL.dll
+D:\labs TPvI\lab7\ASPA\DAL_Celebrit_MSSQL\obj\Debug\net8.0\refint\DAL_Celebrit_MSSQL.dll
+D:\labs TPvI\lab7\ASPA\DAL_Celebrit_MSSQL\obj\Debug\net8.0\DAL_Celebrit_MSSQL.pdb
+D:\labs TPvI\lab7\ASPA\DAL_Celebrit_MSSQL\obj\Debug\net8.0\ref\DAL_Celebrit_MSSQL.dll
+D:\Программирование\4_сем\ТПВИ\lab_7\ASPA\ASPA\DAL_Celebrit_MSSQL\bin\Debug\net8.0\DAL_Celebrit_MSSQL.deps.json
+D:\Программирование\4_сем\ТПВИ\lab_7\ASPA\ASPA\DAL_Celebrit_MSSQL\bin\Debug\net8.0\DAL_Celebrit_MSSQL.dll
+D:\Программирование\4_сем\ТПВИ\lab_7\ASPA\ASPA\DAL_Celebrit_MSSQL\bin\Debug\net8.0\DAL_Celebrit_MSSQL.pdb
+D:\Программирование\4_сем\ТПВИ\lab_7\ASPA\ASPA\DAL_Celebrit_MSSQL\bin\Debug\net8.0\DAL_Celebrity.dll
+D:\Программирование\4_сем\ТПВИ\lab_7\ASPA\ASPA\DAL_Celebrit_MSSQL\bin\Debug\net8.0\DAL_Celebrity.pdb
+D:\Программирование\4_сем\ТПВИ\lab_7\ASPA\ASPA\DAL_Celebrit_MSSQL\obj\Debug\net8.0\DAL_Celebrit_MSSQL.csproj.AssemblyReference.cache
+D:\Программирование\4_сем\ТПВИ\lab_7\ASPA\ASPA\DAL_Celebrit_MSSQL\obj\Debug\net8.0\DAL_Celebrit_MSSQL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программирование\4_сем\ТПВИ\lab_7\ASPA\ASPA\DAL_Celebrit_MSSQL\obj\Debug\net8.0\DAL_Celebrit_MSSQL.AssemblyInfoInputs.cache
+D:\Программирование\4_сем\ТПВИ\lab_7\ASPA\ASPA\DAL_Celebrit_MSSQL\obj\Debug\net8.0\DAL_Celebrit_MSSQL.AssemblyInfo.cs
+D:\Программирование\4_сем\ТПВИ\lab_7\ASPA\ASPA\DAL_Celebrit_MSSQL\obj\Debug\net8.0\DAL_Celebrit_MSSQL.csproj.CoreCompileInputs.cache
+D:\Программирование\4_сем\ТПВИ\lab_7\ASPA\ASPA\DAL_Celebrit_MSSQL\obj\Debug\net8.0\DAL_Cele.E5AA0F30.Up2Date
+D:\Программирование\4_сем\ТПВИ\lab_7\ASPA\ASPA\DAL_Celebrit_MSSQL\obj\Debug\net8.0\DAL_Celebrit_MSSQL.dll
+D:\Программирование\4_сем\ТПВИ\lab_7\ASPA\ASPA\DAL_Celebrit_MSSQL\obj\Debug\net8.0\refint\DAL_Celebrit_MSSQL.dll
+D:\Программирование\4_сем\ТПВИ\lab_7\ASPA\ASPA\DAL_Celebrit_MSSQL\obj\Debug\net8.0\DAL_Celebrit_MSSQL.pdb
+D:\Программирование\4_сем\ТПВИ\lab_7\ASPA\ASPA\DAL_Celebrit_MSSQL\obj\Debug\net8.0\ref\DAL_Celebrit_MSSQL.dll

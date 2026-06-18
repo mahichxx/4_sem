@@ -1,0 +1,141 @@
+D:\labs TPvI\lab6\ASPA\ASPA_006\obj\Debug\net8.0\ASPA006_1.csproj.AssemblyReference.cache
+D:\labs TPvI\lab6\ASPA\ASPA_006\obj\Debug\net8.0\ASPA006_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\labs TPvI\lab6\ASPA\ASPA_006\obj\Debug\net8.0\ASPA006_1.AssemblyInfoInputs.cache
+D:\labs TPvI\lab6\ASPA\ASPA_006\obj\Debug\net8.0\ASPA006_1.AssemblyInfo.cs
+D:\labs TPvI\lab6\ASPA\ASPA_006\obj\Debug\net8.0\ASPA006_1.csproj.CoreCompileInputs.cache
+D:\labs TPvI\lab6\ASPA\ASPA_006\obj\Debug\net8.0\ASPA006_1.MvcApplicationPartsAssemblyInfo.cache
+D:\labs TPvI\lab6\ASPA\ASPA_006\bin\Debug\net8.0\appsettings.Development.json
+D:\labs TPvI\lab6\ASPA\ASPA_006\bin\Debug\net8.0\appsettings.json
+D:\labs TPvI\lab6\ASPA\ASPA_006\bin\Debug\net8.0\ASPA006_1.staticwebassets.runtime.json
+D:\labs TPvI\lab6\ASPA\ASPA_006\bin\Debug\net8.0\ASPA006_1.exe
+D:\labs TPvI\lab6\ASPA\ASPA_006\bin\Debug\net8.0\ASPA006_1.deps.json
+D:\labs TPvI\lab6\ASPA\ASPA_006\bin\Debug\net8.0\ASPA006_1.runtimeconfig.json
+D:\labs TPvI\lab6\ASPA\ASPA_006\bin\Debug\net8.0\ASPA006_1.dll
+D:\labs TPvI\lab6\ASPA\ASPA_006\bin\Debug\net8.0\ASPA006_1.pdb
+D:\labs TPvI\lab6\ASPA\ASPA_006\bin\Debug\net8.0\Azure.Core.dll
+D:\labs TPvI\lab6\ASPA\ASPA_006\bin\Debug\net8.0\Azure.Identity.dll
+D:\labs TPvI\lab6\ASPA\ASPA_006\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\labs TPvI\lab6\ASPA\ASPA_006\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\labs TPvI\lab6\ASPA\ASPA_006\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\labs TPvI\lab6\ASPA\ASPA_006\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\labs TPvI\lab6\ASPA\ASPA_006\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\labs TPvI\lab6\ASPA\ASPA_006\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\labs TPvI\lab6\ASPA\ASPA_006\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\labs TPvI\lab6\ASPA\ASPA_006\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\labs TPvI\lab6\ASPA\ASPA_006\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\labs TPvI\lab6\ASPA\ASPA_006\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\labs TPvI\lab6\ASPA\ASPA_006\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\labs TPvI\lab6\ASPA\ASPA_006\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\labs TPvI\lab6\ASPA\ASPA_006\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\labs TPvI\lab6\ASPA\ASPA_006\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\labs TPvI\lab6\ASPA\ASPA_006\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\labs TPvI\lab6\ASPA\ASPA_006\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\labs TPvI\lab6\ASPA\ASPA_006\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\labs TPvI\lab6\ASPA\ASPA_006\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\labs TPvI\lab6\ASPA\ASPA_006\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\labs TPvI\lab6\ASPA\ASPA_006\bin\Debug\net8.0\System.Memory.Data.dll
+D:\labs TPvI\lab6\ASPA\ASPA_006\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\labs TPvI\lab6\ASPA\ASPA_006\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\labs TPvI\lab6\ASPA\ASPA_006\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\labs TPvI\lab6\ASPA\ASPA_006\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\labs TPvI\lab6\ASPA\ASPA_006\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\labs TPvI\lab6\ASPA\ASPA_006\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\labs TPvI\lab6\ASPA\ASPA_006\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\labs TPvI\lab6\ASPA\ASPA_006\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\labs TPvI\lab6\ASPA\ASPA_006\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\labs TPvI\lab6\ASPA\ASPA_006\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\labs TPvI\lab6\ASPA\ASPA_006\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\labs TPvI\lab6\ASPA\ASPA_006\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\labs TPvI\lab6\ASPA\ASPA_006\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\labs TPvI\lab6\ASPA\ASPA_006\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\labs TPvI\lab6\ASPA\ASPA_006\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\labs TPvI\lab6\ASPA\ASPA_006\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\labs TPvI\lab6\ASPA\ASPA_006\bin\Debug\net8.0\DAL_Celebrity.dll
+D:\labs TPvI\lab6\ASPA\ASPA_006\bin\Debug\net8.0\DAL_Celebrity_MSSQL.dll
+D:\labs TPvI\lab6\ASPA\ASPA_006\bin\Debug\net8.0\DAL_Celebrity.pdb
+D:\labs TPvI\lab6\ASPA\ASPA_006\bin\Debug\net8.0\DAL_Celebrity_MSSQL.pdb
+D:\labs TPvI\lab6\ASPA\ASPA_006\obj\Debug\net8.0\staticwebassets.build.json
+D:\labs TPvI\lab6\ASPA\ASPA_006\obj\Debug\net8.0\staticwebassets.development.json
+D:\labs TPvI\lab6\ASPA\ASPA_006\obj\Debug\net8.0\staticwebassets\msbuild.ASPA006_1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\labs TPvI\lab6\ASPA\ASPA_006\obj\Debug\net8.0\staticwebassets\msbuild.build.ASPA006_1.props
+D:\labs TPvI\lab6\ASPA\ASPA_006\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ASPA006_1.props
+D:\labs TPvI\lab6\ASPA\ASPA_006\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ASPA006_1.props
+D:\labs TPvI\lab6\ASPA\ASPA_006\obj\Debug\net8.0\staticwebassets.pack.json
+D:\labs TPvI\lab6\ASPA\ASPA_006\obj\Debug\net8.0\scopedcss\bundle\ASPA006_1.styles.css
+D:\labs TPvI\lab6\ASPA\ASPA_006\obj\Debug\net8.0\ASPA006_1.csproj.Up2Date
+D:\labs TPvI\lab6\ASPA\ASPA_006\obj\Debug\net8.0\ASPA006_1.dll
+D:\labs TPvI\lab6\ASPA\ASPA_006\obj\Debug\net8.0\refint\ASPA006_1.dll
+D:\labs TPvI\lab6\ASPA\ASPA_006\obj\Debug\net8.0\ASPA006_1.pdb
+D:\labs TPvI\lab6\ASPA\ASPA_006\obj\Debug\net8.0\ASPA006_1.genruntimeconfig.cache
+D:\labs TPvI\lab6\ASPA\ASPA_006\obj\Debug\net8.0\ref\ASPA006_1.dll
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\bin\Debug\net8.0\appsettings.Development.json
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\bin\Debug\net8.0\appsettings.json
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\bin\Debug\net8.0\Celebrities.config.json
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\bin\Debug\net8.0\ASPA006_1.staticwebassets.runtime.json
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\bin\Debug\net8.0\ASPA006_1.exe
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\bin\Debug\net8.0\ASPA006_1.deps.json
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\bin\Debug\net8.0\ASPA006_1.runtimeconfig.json
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\bin\Debug\net8.0\ASPA006_1.dll
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\bin\Debug\net8.0\ASPA006_1.pdb
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\bin\Debug\net8.0\Azure.Core.dll
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\bin\Debug\net8.0\Azure.Identity.dll
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\bin\Debug\net8.0\DAL_Celebrity.dll
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\bin\Debug\net8.0\DAL_Celebrity_MSSQL.dll
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\bin\Debug\net8.0\DAL_Celebrity.pdb
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\bin\Debug\net8.0\DAL_Celebrity_MSSQL.pdb
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\obj\Debug\net8.0\ASPA006_1.csproj.AssemblyReference.cache
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\obj\Debug\net8.0\ASPA006_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\obj\Debug\net8.0\ASPA006_1.AssemblyInfoInputs.cache
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\obj\Debug\net8.0\ASPA006_1.AssemblyInfo.cs
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\obj\Debug\net8.0\ASPA006_1.csproj.CoreCompileInputs.cache
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\obj\Debug\net8.0\ASPA006_1.MvcApplicationPartsAssemblyInfo.cache
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\obj\Debug\net8.0\staticwebassets.build.json
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\obj\Debug\net8.0\staticwebassets.development.json
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\obj\Debug\net8.0\staticwebassets\msbuild.ASPA006_1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\obj\Debug\net8.0\staticwebassets\msbuild.build.ASPA006_1.props
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ASPA006_1.props
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ASPA006_1.props
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\obj\Debug\net8.0\scopedcss\bundle\ASPA006_1.styles.css
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\obj\Debug\net8.0\ASPA006_1.csproj.Up2Date
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\obj\Debug\net8.0\ASPA006_1.dll
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\obj\Debug\net8.0\refint\ASPA006_1.dll
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\obj\Debug\net8.0\ASPA006_1.pdb
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\obj\Debug\net8.0\ASPA006_1.genruntimeconfig.cache
+D:\Программирование\4_сем\ТПВИ\lab_6\ASPA\ASPA\ASPA_006\obj\Debug\net8.0\ref\ASPA006_1.dll

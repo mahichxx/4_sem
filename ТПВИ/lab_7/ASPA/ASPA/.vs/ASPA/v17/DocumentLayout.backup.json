@@ -1,0 +1,332 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u0422\u041F\u0412\u0418\\lab_7\\ASPA\\ASPA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D189D55F-09A7-4164-B58E-532FAE57D832}|ASPA007_1\\ASPA007_1.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u0442\u043F\u0432\u0438\\lab_7\\aspa\\aspa\\aspa007_1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D189D55F-09A7-4164-B58E-532FAE57D832}|ASPA007_1\\ASPA007_1.csproj|solutionrelative:aspa007_1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D189D55F-09A7-4164-B58E-532FAE57D832}|ASPA007_1\\ASPA007_1.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u0442\u043F\u0432\u0438\\lab_7\\aspa\\aspa\\aspa007_1\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D189D55F-09A7-4164-B58E-532FAE57D832}|ASPA007_1\\ASPA007_1.csproj|solutionrelative:aspa007_1\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D189D55F-09A7-4164-B58E-532FAE57D832}|ASPA007_1\\ASPA007_1.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u0442\u043F\u0432\u0438\\lab_7\\aspa\\aspa\\aspa007_1\\pages\\view.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D189D55F-09A7-4164-B58E-532FAE57D832}|ASPA007_1\\ASPA007_1.csproj|solutionrelative:aspa007_1\\pages\\view.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D189D55F-09A7-4164-B58E-532FAE57D832}|ASPA007_1\\ASPA007_1.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u0442\u043F\u0432\u0438\\lab_7\\aspa\\aspa\\aspa007_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D189D55F-09A7-4164-B58E-532FAE57D832}|ASPA007_1\\ASPA007_1.csproj|solutionrelative:aspa007_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D189D55F-09A7-4164-B58E-532FAE57D832}|ASPA007_1\\ASPA007_1.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u0442\u043F\u0432\u0438\\lab_7\\aspa\\aspa\\aspa007_1\\pages\\add.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D189D55F-09A7-4164-B58E-532FAE57D832}|ASPA007_1\\ASPA007_1.csproj|solutionrelative:aspa007_1\\pages\\add.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D189D55F-09A7-4164-B58E-532FAE57D832}|ASPA007_1\\ASPA007_1.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u0442\u043F\u0432\u0438\\lab_7\\aspa\\aspa\\aspa007_1\\pages\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D189D55F-09A7-4164-B58E-532FAE57D832}|ASPA007_1\\ASPA007_1.csproj|solutionrelative:aspa007_1\\pages\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D189D55F-09A7-4164-B58E-532FAE57D832}|ASPA007_1\\ASPA007_1.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u0442\u043F\u0432\u0438\\lab_7\\aspa\\aspa\\aspa007_1\\pages\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D189D55F-09A7-4164-B58E-532FAE57D832}|ASPA007_1\\ASPA007_1.csproj|solutionrelative:aspa007_1\\pages\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D189D55F-09A7-4164-B58E-532FAE57D832}|ASPA007_1\\ASPA007_1.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u0442\u043F\u0432\u0438\\lab_7\\aspa\\aspa\\aspa007_1\\pages\\confirm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D189D55F-09A7-4164-B58E-532FAE57D832}|ASPA007_1\\ASPA007_1.csproj|solutionrelative:aspa007_1\\pages\\confirm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D189D55F-09A7-4164-B58E-532FAE57D832}|ASPA007_1\\ASPA007_1.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u0442\u043F\u0432\u0438\\lab_7\\aspa\\aspa\\aspa007_1\\pages\\confirm.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D189D55F-09A7-4164-B58E-532FAE57D832}|ASPA007_1\\ASPA007_1.csproj|solutionrelative:aspa007_1\\pages\\confirm.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03888499-203B-47DE-92D7-592037ECEE4B}|DAL_Celebrit_MSSQL\\DAL_Celebrit_MSSQL.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u0442\u043F\u0432\u0438\\lab_7\\aspa\\aspa\\dal_celebrit_mssql\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03888499-203B-47DE-92D7-592037ECEE4B}|DAL_Celebrit_MSSQL\\DAL_Celebrit_MSSQL.csproj|solutionrelative:dal_celebrit_mssql\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03888499-203B-47DE-92D7-592037ECEE4B}|DAL_Celebrit_MSSQL\\DAL_Celebrit_MSSQL.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u0442\u043F\u0432\u0438\\lab_7\\aspa\\aspa\\dal_celebrit_mssql\\entities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03888499-203B-47DE-92D7-592037ECEE4B}|DAL_Celebrit_MSSQL\\DAL_Celebrit_MSSQL.csproj|solutionrelative:dal_celebrit_mssql\\entities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42EA91BD-AB12-42F4-89D1-202721894248}|DAL_Celebrity\\DAL_Celebrity.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u0442\u043F\u0432\u0438\\lab_7\\aspa\\aspa\\dal_celebrity\\dal_celebrity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42EA91BD-AB12-42F4-89D1-202721894248}|DAL_Celebrity\\DAL_Celebrity.csproj|solutionrelative:dal_celebrity\\dal_celebrity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03888499-203B-47DE-92D7-592037ECEE4B}|DAL_Celebrit_MSSQL\\DAL_Celebrit_MSSQL.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u0442\u043F\u0432\u0438\\lab_7\\aspa\\aspa\\dal_celebrit_mssql\\init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03888499-203B-47DE-92D7-592037ECEE4B}|DAL_Celebrit_MSSQL\\DAL_Celebrit_MSSQL.csproj|solutionrelative:dal_celebrit_mssql\\init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03888499-203B-47DE-92D7-592037ECEE4B}|DAL_Celebrit_MSSQL\\DAL_Celebrit_MSSQL.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u0442\u043F\u0432\u0438\\lab_7\\aspa\\aspa\\dal_celebrit_mssql\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03888499-203B-47DE-92D7-592037ECEE4B}|DAL_Celebrit_MSSQL\\DAL_Celebrit_MSSQL.csproj|solutionrelative:dal_celebrit_mssql\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D189D55F-09A7-4164-B58E-532FAE57D832}|ASPA007_1\\ASPA007_1.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u0442\u043F\u0432\u0438\\lab_7\\aspa\\aspa\\aspa007_1\\celebritiesconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D189D55F-09A7-4164-B58E-532FAE57D832}|ASPA007_1\\ASPA007_1.csproj|solutionrelative:aspa007_1\\celebritiesconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D189D55F-09A7-4164-B58E-532FAE57D832}|ASPA007_1\\ASPA007_1.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u0442\u043F\u0432\u0438\\lab_7\\aspa\\aspa\\aspa007_1\\celebrities.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D189D55F-09A7-4164-B58E-532FAE57D832}|ASPA007_1\\ASPA007_1.csproj|solutionrelative:aspa007_1\\celebrities.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 48,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u0422\u041F\u0412\u0418\\lab_7\\ASPA\\ASPA\\ASPA007_1\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASPA007_1\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u0422\u041F\u0412\u0418\\lab_7\\ASPA\\ASPA\\ASPA007_1\\Pages\\Index.cshtml",
+              "RelativeToolTip": "ASPA007_1\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-24T08:54:35.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Add.cshtml.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u0422\u041F\u0412\u0418\\lab_7\\ASPA\\ASPA\\ASPA007_1\\Pages\\Add.cshtml.cs",
+              "RelativeDocumentMoniker": "ASPA007_1\\Pages\\Add.cshtml.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u0422\u041F\u0412\u0418\\lab_7\\ASPA\\ASPA\\ASPA007_1\\Pages\\Add.cshtml.cs",
+              "RelativeToolTip": "ASPA007_1\\Pages\\Add.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T09:00:19.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u0422\u041F\u0412\u0418\\lab_7\\ASPA\\ASPA\\ASPA007_1\\Program.cs",
+              "RelativeDocumentMoniker": "ASPA007_1\\Program.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u0422\u041F\u0412\u0418\\lab_7\\ASPA\\ASPA\\ASPA007_1\\Program.cs",
+              "RelativeToolTip": "ASPA007_1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T08:54:07.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "View.cshtml.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u0422\u041F\u0412\u0418\\lab_7\\ASPA\\ASPA\\ASPA007_1\\Pages\\View.cshtml.cs",
+              "RelativeDocumentMoniker": "ASPA007_1\\Pages\\View.cshtml.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u0422\u041F\u0412\u0418\\lab_7\\ASPA\\ASPA\\ASPA007_1\\Pages\\View.cshtml.cs",
+              "RelativeToolTip": "ASPA007_1\\Pages\\View.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T09:01:58.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u0422\u041F\u0412\u0418\\lab_7\\ASPA\\ASPA\\ASPA007_1\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "ASPA007_1\\Pages\\Index.cshtml.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u0422\u041F\u0412\u0418\\lab_7\\ASPA\\ASPA\\ASPA007_1\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "ASPA007_1\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T08:59:07.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u0422\u041F\u0412\u0418\\lab_7\\ASPA\\ASPA\\ASPA007_1\\Pages\\Add.cshtml",
+              "RelativeDocumentMoniker": "ASPA007_1\\Pages\\Add.cshtml",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u0422\u041F\u0412\u0418\\lab_7\\ASPA\\ASPA\\ASPA007_1\\Pages\\Add.cshtml",
+              "RelativeToolTip": "ASPA007_1\\Pages\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-24T08:59:55.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "View.cshtml",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u0422\u041F\u0412\u0418\\lab_7\\ASPA\\ASPA\\ASPA007_1\\Pages\\View.cshtml",
+              "RelativeDocumentMoniker": "ASPA007_1\\Pages\\View.cshtml",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u0422\u041F\u0412\u0418\\lab_7\\ASPA\\ASPA\\ASPA007_1\\Pages\\View.cshtml",
+              "RelativeToolTip": "ASPA007_1\\Pages\\View.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-24T09:01:40.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Confirm.cshtml",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u0422\u041F\u0412\u0418\\lab_7\\ASPA\\ASPA\\ASPA007_1\\Pages\\Confirm.cshtml",
+              "RelativeDocumentMoniker": "ASPA007_1\\Pages\\Confirm.cshtml",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u0422\u041F\u0412\u0418\\lab_7\\ASPA\\ASPA\\ASPA007_1\\Pages\\Confirm.cshtml",
+              "RelativeToolTip": "ASPA007_1\\Pages\\Confirm.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-15T14:42:45.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u0422\u041F\u0412\u0418\\lab_7\\ASPA\\ASPA\\DAL_Celebrit_MSSQL\\Repository.cs",
+              "RelativeDocumentMoniker": "DAL_Celebrit_MSSQL\\Repository.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u0422\u041F\u0412\u0418\\lab_7\\ASPA\\ASPA\\DAL_Celebrit_MSSQL\\Repository.cs",
+              "RelativeToolTip": "DAL_Celebrit_MSSQL\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T10:02:42.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Confirm.cshtml.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u0422\u041F\u0412\u0418\\lab_7\\ASPA\\ASPA\\ASPA007_1\\Pages\\Confirm.cshtml.cs",
+              "RelativeDocumentMoniker": "ASPA007_1\\Pages\\Confirm.cshtml.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u0422\u041F\u0412\u0418\\lab_7\\ASPA\\ASPA\\ASPA007_1\\Pages\\Confirm.cshtml.cs",
+              "RelativeToolTip": "ASPA007_1\\Pages\\Confirm.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T09:01:07.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Entities.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u0422\u041F\u0412\u0418\\lab_7\\ASPA\\ASPA\\DAL_Celebrit_MSSQL\\Entities.cs",
+              "RelativeDocumentMoniker": "DAL_Celebrit_MSSQL\\Entities.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u0422\u041F\u0412\u0418\\lab_7\\ASPA\\ASPA\\DAL_Celebrit_MSSQL\\Entities.cs",
+              "RelativeToolTip": "DAL_Celebrit_MSSQL\\Entities.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T10:01:51.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DAL_Celebrity.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u0422\u041F\u0412\u0418\\lab_7\\ASPA\\ASPA\\DAL_Celebrity\\DAL_Celebrity.cs",
+              "RelativeDocumentMoniker": "DAL_Celebrity\\DAL_Celebrity.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u0422\u041F\u0412\u0418\\lab_7\\ASPA\\ASPA\\DAL_Celebrity\\DAL_Celebrity.cs",
+              "RelativeToolTip": "DAL_Celebrity\\DAL_Celebrity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T10:04:02.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Init.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u0422\u041F\u0412\u0418\\lab_7\\ASPA\\ASPA\\DAL_Celebrit_MSSQL\\Init.cs",
+              "RelativeDocumentMoniker": "DAL_Celebrit_MSSQL\\Init.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u0422\u041F\u0412\u0418\\lab_7\\ASPA\\ASPA\\DAL_Celebrit_MSSQL\\Init.cs",
+              "RelativeToolTip": "DAL_Celebrit_MSSQL\\Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T10:02:21.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Context.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u0422\u041F\u0412\u0418\\lab_7\\ASPA\\ASPA\\DAL_Celebrit_MSSQL\\Context.cs",
+              "RelativeDocumentMoniker": "DAL_Celebrit_MSSQL\\Context.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u0422\u041F\u0412\u0418\\lab_7\\ASPA\\ASPA\\DAL_Celebrit_MSSQL\\Context.cs",
+              "RelativeToolTip": "DAL_Celebrit_MSSQL\\Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T10:00:20.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CelebritiesConfig.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u0422\u041F\u0412\u0418\\lab_7\\ASPA\\ASPA\\ASPA007_1\\CelebritiesConfig.cs",
+              "RelativeDocumentMoniker": "ASPA007_1\\CelebritiesConfig.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u0422\u041F\u0412\u0418\\lab_7\\ASPA\\ASPA\\ASPA007_1\\CelebritiesConfig.cs",
+              "RelativeToolTip": "ASPA007_1\\CelebritiesConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T08:52:17.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Celebrities.config.json",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u0422\u041F\u0412\u0418\\lab_7\\ASPA\\ASPA\\ASPA007_1\\Celebrities.config.json",
+              "RelativeDocumentMoniker": "ASPA007_1\\Celebrities.config.json",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\4_\u0441\u0435\u043C\\\u0422\u041F\u0412\u0418\\lab_7\\ASPA\\ASPA\\ASPA007_1\\Celebrities.config.json",
+              "RelativeToolTip": "ASPA007_1\\Celebrities.config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-24T08:51:52.406Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 69,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

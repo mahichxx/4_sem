@@ -1,0 +1,15 @@
+﻿@page
+@model ASPA007_1.Pages.ConfirmModel
+
+<h1>Подтверждение данных</h1>
+
+<p><b>Имя:</b> @Model.FullName</p>
+<p><b>Гражданство:</b> @Model.Nationality</p>
+
+<p><b>Фотография:</b></p>
+<img src="/temp/@Model.TempPhoto" style="max-width:300px;" />
+
+<form method="post">
+    <button type="submit">Подтвердить</button>
+    <a href="/Add">Назад</a>
+</form>

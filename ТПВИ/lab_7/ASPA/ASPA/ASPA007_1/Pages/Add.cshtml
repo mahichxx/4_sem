@@ -1,0 +1,23 @@
+﻿@page
+@model AddModel
+
+<h1>Добавить знаменитость</h1>
+
+<form method="post" enctype="multipart/form-data">
+    <label>
+        Полное имя:
+        <input type="text" name="FullName" required />
+    </label>
+
+    <label>
+        Гражданство (2 буквы):
+        <input type="text" name="Nationality" maxlength="2" required />
+    </label>
+
+    <label>
+        Фотография:
+        <input type="file" name="Photo" required />
+    </label>
+
+    <button type="submit">Далее</button>
+</form>

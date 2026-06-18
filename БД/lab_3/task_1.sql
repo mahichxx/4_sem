@@ -1,0 +1,16 @@
+USE master;
+GO
+
+IF EXISTS (SELECT name FROM sys.databases WHERE name = N'z_MyBase_2')
+BEGIN
+    ALTER DATABASE z_MyBase_2 SET SINGLE_USER WITH ROLLBACK IMMEDIATE;
+    
+    DROP DATABASE z_MyBase_2;
+END
+GO
+
+CREATE DATABASE z_MyBase_2;
+GO
+
+USE z_MyBase_2;
+GO

@@ -1,0 +1,36 @@
+﻿@using DAL_Celebrity_MSSQL
+@using ASPA008_1.Helpers
+
+@* Модель правильная, так как HumanModel описана внутри контроллера *@
+@model ASPA008_1.Controllers.CelebritiesController.HumanModel
+
+@{
+    Layout = "_CelebritiesLayout";
+
+    var celebrity = Model.celebrity;
+
+    string photoPath = $"{Model.photosrequestpath}/{celebrity.ReqPhotoPath}";
+}
+
+@section subhead {
+    <h2>@(celebrity.Id > 0 ? "Редактирование" : "Новая знаменитость")</h2>
+}
+
+<div class="row mt-4">
+    <div class="col-md-4 text-center">
+        @* Фото слева. ID=0 для новой, реальный ID для редактирования *@
+        <div class="celebrity-box">
+            @Html.CelebrityPhoto(celebrity.Id, celebrity.FullName, photoPath)
+        </div>
+    </div>
+
+    <div class="col-md-8">
+        @* Форма справа. Передаем объект celebrity в частичное представление *@
+        <div class="celebrity-box" style="width: 100%; border: none;">
+            <partial name="_InFormNewCelebrity" model="@celebrity" />
+        </div>
+    </div>
+</div>
+
+@section foot {
+}

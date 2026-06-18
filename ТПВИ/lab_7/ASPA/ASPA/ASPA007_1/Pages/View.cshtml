@@ -1,0 +1,11 @@
+﻿@page
+@model ViewModel
+
+<h1>@Model.Celebrity?.FullName</h1>
+
+@if (Model.Celebrity != null)
+{
+    <img src="@Model.Celebrity.ReqPhotoPath" style="max-width:80%;" />
+}
+
+<p><a href="/Index">Назад</a></p>

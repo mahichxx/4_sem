@@ -1,0 +1,6 @@
+{
+  "Celebrities": {
+    "ConnectionString": "Server=(localdb)\\MSSQLLocalDB;Database=LES01;Trusted_Connection=True;TrustServerCertificate=True",
+    "PhotosFolder": "wwwroot/photos"
+  }
+}

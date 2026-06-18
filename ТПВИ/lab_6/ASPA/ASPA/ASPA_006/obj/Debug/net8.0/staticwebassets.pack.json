@@ -1,0 +1,193 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Программирование\\4_сем\\ТПВИ\\lab_6\\ASPA\\ASPA\\ASPA_006\\wwwroot\\Babbage.jpg",
+      "PackagePath": "staticwebassets\\Babbage.jpg"
+    },
+    {
+      "Id": "D:\\Программирование\\4_сем\\ТПВИ\\lab_6\\ASPA\\ASPA\\ASPA_006\\wwwroot\\Berners-Lee.jpg",
+      "PackagePath": "staticwebassets\\Berners-Lee.jpg"
+    },
+    {
+      "Id": "D:\\Программирование\\4_сем\\ТПВИ\\lab_6\\ASPA\\ASPA\\ASPA_006\\wwwroot\\Celebrities.zip",
+      "PackagePath": "staticwebassets\\Celebrities.zip"
+    },
+    {
+      "Id": "D:\\Программирование\\4_сем\\ТПВИ\\lab_6\\ASPA\\ASPA\\ASPA_006\\wwwroot\\Celebrities\\Babbage.jpg",
+      "PackagePath": "staticwebassets\\Celebrities\\Babbage.jpg"
+    },
+    {
+      "Id": "D:\\Программирование\\4_сем\\ТПВИ\\lab_6\\ASPA\\ASPA\\ASPA_006\\wwwroot\\Celebrities\\Berners-Lee.jpg",
+      "PackagePath": "staticwebassets\\Celebrities\\Berners-Lee.jpg"
+    },
+    {
+      "Id": "D:\\Программирование\\4_сем\\ТПВИ\\lab_6\\ASPA\\ASPA\\ASPA_006\\wwwroot\\Celebrities\\Celeberities.json",
+      "PackagePath": "staticwebassets\\Celebrities\\Celeberities.json"
+    },
+    {
+      "Id": "D:\\Программирование\\4_сем\\ТПВИ\\lab_6\\ASPA\\ASPA\\ASPA_006\\wwwroot\\Celebrities\\Celebrities.json",
+      "PackagePath": "staticwebassets\\Celebrities\\Celebrities.json"
+    },
+    {
+      "Id": "D:\\Программирование\\4_сем\\ТПВИ\\lab_6\\ASPA\\ASPA\\ASPA_006\\wwwroot\\Celebrities\\Chomsky.jpg",
+      "PackagePath": "staticwebassets\\Celebrities\\Chomsky.jpg"
+    },
+    {
+      "Id": "D:\\Программирование\\4_сем\\ТПВИ\\lab_6\\ASPA\\ASPA\\ASPA_006\\wwwroot\\Celebrities\\Codd.jpg",
+      "PackagePath": "staticwebassets\\Celebrities\\Codd.jpg"
+    },
+    {
+      "Id": "D:\\Программирование\\4_сем\\ТПВИ\\lab_6\\ASPA\\ASPA\\ASPA_006\\wwwroot\\Celebrities\\Dijkstra.jpg",
+      "PackagePath": "staticwebassets\\Celebrities\\Dijkstra.jpg"
+    },
+    {
+      "Id": "D:\\Программирование\\4_сем\\ТПВИ\\lab_6\\ASPA\\ASPA\\ASPA_006\\wwwroot\\Celebrities\\Einstein.jpg",
+      "PackagePath": "staticwebassets\\Celebrities\\Einstein.jpg"
+    },
+    {
+      "Id": "D:\\Программирование\\4_сем\\ТПВИ\\lab_6\\ASPA\\ASPA\\ASPA_006\\wwwroot\\Celebrities\\Ershov.jpg",
+      "PackagePath": "staticwebassets\\Celebrities\\Ershov.jpg"
+    },
+    {
+      "Id": "D:\\Программирование\\4_сем\\ТПВИ\\lab_6\\ASPA\\ASPA\\ASPA_006\\wwwroot\\Celebrities\\Huntington.jpg",
+      "PackagePath": "staticwebassets\\Celebrities\\Huntington.jpg"
+    },
+    {
+      "Id": "D:\\Программирование\\4_сем\\ТПВИ\\lab_6\\ASPA\\ASPA\\ASPA_006\\wwwroot\\Celebrities\\Knuth.jpg",
+      "PackagePath": "staticwebassets\\Celebrities\\Knuth.jpg"
+    },
+    {
+      "Id": "D:\\Программирование\\4_сем\\ТПВИ\\lab_6\\ASPA\\ASPA\\ASPA_006\\wwwroot\\Celebrities\\Linus.jpg",
+      "PackagePath": "staticwebassets\\Celebrities\\Linus.jpg"
+    },
+    {
+      "Id": "D:\\Программирование\\4_сем\\ТПВИ\\lab_6\\ASPA\\ASPA\\ASPA_006\\wwwroot\\Celebrities\\Lovelace.jpg",
+      "PackagePath": "staticwebassets\\Celebrities\\Lovelace.jpg"
+    },
+    {
+      "Id": "D:\\Программирование\\4_сем\\ТПВИ\\lab_6\\ASPA\\ASPA\\ASPA_006\\wwwroot\\Celebrities\\Neumann.jpg",
+      "PackagePath": "staticwebassets\\Celebrities\\Neumann.jpg"
+    },
+    {
+      "Id": "D:\\Программирование\\4_сем\\ТПВИ\\lab_6\\ASPA\\ASPA\\ASPA_006\\wwwroot\\Celebrities\\Photo\\Babbage.jpg",
+      "PackagePath": "staticwebassets\\Celebrities\\Photo\\Babbage.jpg"
+    },
+    {
+      "Id": "D:\\Программирование\\4_сем\\ТПВИ\\lab_6\\ASPA\\ASPA\\ASPA_006\\wwwroot\\Celebrities\\Photo\\Berners-Lee.jpg",
+      "PackagePath": "staticwebassets\\Celebrities\\Photo\\Berners-Lee.jpg"
+    },
+    {
+      "Id": "D:\\Программирование\\4_сем\\ТПВИ\\lab_6\\ASPA\\ASPA\\ASPA_006\\wwwroot\\Celebrities\\Photo\\Chomsky.jpg",
+      "PackagePath": "staticwebassets\\Celebrities\\Photo\\Chomsky.jpg"
+    },
+    {
+      "Id": "D:\\Программирование\\4_сем\\ТПВИ\\lab_6\\ASPA\\ASPA\\ASPA_006\\wwwroot\\Celebrities\\Photo\\Codd.jpg",
+      "PackagePath": "staticwebassets\\Celebrities\\Photo\\Codd.jpg"
+    },
+    {
+      "Id": "D:\\Программирование\\4_сем\\ТПВИ\\lab_6\\ASPA\\ASPA\\ASPA_006\\wwwroot\\Celebrities\\Photo\\Dijkstra.jpg",
+      "PackagePath": "staticwebassets\\Celebrities\\Photo\\Dijkstra.jpg"
+    },
+    {
+      "Id": "D:\\Программирование\\4_сем\\ТПВИ\\lab_6\\ASPA\\ASPA\\ASPA_006\\wwwroot\\Celebrities\\Photo\\Einstein.jpg",
+      "PackagePath": "staticwebassets\\Celebrities\\Photo\\Einstein.jpg"
+    },
+    {
+      "Id": "D:\\Программирование\\4_сем\\ТПВИ\\lab_6\\ASPA\\ASPA\\ASPA_006\\wwwroot\\Celebrities\\Photo\\Ershov.jpg",
+      "PackagePath": "staticwebassets\\Celebrities\\Photo\\Ershov.jpg"
+    },
+    {
+      "Id": "D:\\Программирование\\4_сем\\ТПВИ\\lab_6\\ASPA\\ASPA\\ASPA_006\\wwwroot\\Celebrities\\Photo\\Huntington.jpg",
+      "PackagePath": "staticwebassets\\Celebrities\\Photo\\Huntington.jpg"
+    },
+    {
+      "Id": "D:\\Программирование\\4_сем\\ТПВИ\\lab_6\\ASPA\\ASPA\\ASPA_006\\wwwroot\\Celebrities\\Photo\\Knuth.jpg",
+      "PackagePath": "staticwebassets\\Celebrities\\Photo\\Knuth.jpg"
+    },
+    {
+      "Id": "D:\\Программирование\\4_сем\\ТПВИ\\lab_6\\ASPA\\ASPA\\ASPA_006\\wwwroot\\Celebrities\\Photo\\Linus.jpg",
+      "PackagePath": "staticwebassets\\Celebrities\\Photo\\Linus.jpg"
+    },
+    {
+      "Id": "D:\\Программирование\\4_сем\\ТПВИ\\lab_6\\ASPA\\ASPA\\ASPA_006\\wwwroot\\Celebrities\\Photo\\Lovelace.jpg",
+      "PackagePath": "staticwebassets\\Celebrities\\Photo\\Lovelace.jpg"
+    },
+    {
+      "Id": "D:\\Программирование\\4_сем\\ТПВИ\\lab_6\\ASPA\\ASPA\\ASPA_006\\wwwroot\\Celebrities\\Photo\\Neumann.jpg",
+      "PackagePath": "staticwebassets\\Celebrities\\Photo\\Neumann.jpg"
+    },
+    {
+      "Id": "D:\\Программирование\\4_сем\\ТПВИ\\lab_6\\ASPA\\ASPA\\ASPA_006\\wwwroot\\Celebrities\\Photo\\Tanenbaum.jpg",
+      "PackagePath": "staticwebassets\\Celebrities\\Photo\\Tanenbaum.jpg"
+    },
+    {
+      "Id": "D:\\Программирование\\4_сем\\ТПВИ\\lab_6\\ASPA\\ASPA\\ASPA_006\\wwwroot\\Celebrities\\Tanenbaum.jpg",
+      "PackagePath": "staticwebassets\\Celebrities\\Tanenbaum.jpg"
+    },
+    {
+      "Id": "D:\\Программирование\\4_сем\\ТПВИ\\lab_6\\ASPA\\ASPA\\ASPA_006\\wwwroot\\Chomsky.jpg",
+      "PackagePath": "staticwebassets\\Chomsky.jpg"
+    },
+    {
+      "Id": "D:\\Программирование\\4_сем\\ТПВИ\\lab_6\\ASPA\\ASPA\\ASPA_006\\wwwroot\\Codd.jpg",
+      "PackagePath": "staticwebassets\\Codd.jpg"
+    },
+    {
+      "Id": "D:\\Программирование\\4_сем\\ТПВИ\\lab_6\\ASPA\\ASPA\\ASPA_006\\wwwroot\\Dijkstra.jpg",
+      "PackagePath": "staticwebassets\\Dijkstra.jpg"
+    },
+    {
+      "Id": "D:\\Программирование\\4_сем\\ТПВИ\\lab_6\\ASPA\\ASPA\\ASPA_006\\wwwroot\\Einstein.jpg",
+      "PackagePath": "staticwebassets\\Einstein.jpg"
+    },
+    {
+      "Id": "D:\\Программирование\\4_сем\\ТПВИ\\lab_6\\ASPA\\ASPA\\ASPA_006\\wwwroot\\Ershov.jpg",
+      "PackagePath": "staticwebassets\\Ershov.jpg"
+    },
+    {
+      "Id": "D:\\Программирование\\4_сем\\ТПВИ\\lab_6\\ASPA\\ASPA\\ASPA_006\\wwwroot\\Huntington.jpg",
+      "PackagePath": "staticwebassets\\Huntington.jpg"
+    },
+    {
+      "Id": "D:\\Программирование\\4_сем\\ТПВИ\\lab_6\\ASPA\\ASPA\\ASPA_006\\wwwroot\\Index.html",
+      "PackagePath": "staticwebassets\\Index.html"
+    },
+    {
+      "Id": "D:\\Программирование\\4_сем\\ТПВИ\\lab_6\\ASPA\\ASPA\\ASPA_006\\wwwroot\\Knuth.jpg",
+      "PackagePath": "staticwebassets\\Knuth.jpg"
+    },
+    {
+      "Id": "D:\\Программирование\\4_сем\\ТПВИ\\lab_6\\ASPA\\ASPA\\ASPA_006\\wwwroot\\Linus.jpg",
+      "PackagePath": "staticwebassets\\Linus.jpg"
+    },
+    {
+      "Id": "D:\\Программирование\\4_сем\\ТПВИ\\lab_6\\ASPA\\ASPA\\ASPA_006\\wwwroot\\Lovelace.jpg",
+      "PackagePath": "staticwebassets\\Lovelace.jpg"
+    },
+    {
+      "Id": "D:\\Программирование\\4_сем\\ТПВИ\\lab_6\\ASPA\\ASPA\\ASPA_006\\wwwroot\\Neumann.jpg",
+      "PackagePath": "staticwebassets\\Neumann.jpg"
+    },
+    {
+      "Id": "D:\\Программирование\\4_сем\\ТПВИ\\lab_6\\ASPA\\ASPA\\ASPA_006\\wwwroot\\Tanenbaum.jpg",
+      "PackagePath": "staticwebassets\\Tanenbaum.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ASPA006_1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ASPA006_1.props",
+      "PackagePath": "build\\ASPA006_1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ASPA006_1.props",
+      "PackagePath": "buildMultiTargeting\\ASPA006_1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ASPA006_1.props",
+      "PackagePath": "buildTransitive\\ASPA006_1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

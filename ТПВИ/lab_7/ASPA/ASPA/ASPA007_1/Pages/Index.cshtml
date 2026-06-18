@@ -1,0 +1,42 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Все знаменитости";
+}
+
+<h1>Все фотографии знаменитостей</h1>
+
+<div class="grid">
+    <div class="item">
+        <a href="/Add">
+            <div class="diamond">♦</div>
+        </a>
+    </div>
+
+    @foreach (var person in Model.Celebrities)
+    {
+        <div class="celebrity-card">
+            <a href="/View?id=@person.Id"> 
+            <img src="@person.ReqPhotoPath" alt="@person.FullName" style="width:200px;" />
+            </a>
+            <p>@person.FullName</p>
+
+            <!-- Форма для удаления (используем Id для логики) -->
+            <form method="post" asp-page-handler="Delete" asp-route-id="@person.Id"
+                  onsubmit="return confirm('Удалить эту карточку?');">
+                <button type="submit" style="color: red;">[Удалить]</button>
+            </form>
+        </div>
+    }
+</div>
+
+<style>
+    .grid { display:flex; flex-wrap:wrap; gap:20px; }
+    .item { text-align:center; }
+    img { width:150px; height:150px; object-fit:cover; border-radius:8px; }
+    .diamond {
+        width:150px; height:150px; border:2px dashed gray;
+        display:flex; align-items:center; justify-content:center;
+        font-size:48px; cursor:pointer;
+    }
+</style>

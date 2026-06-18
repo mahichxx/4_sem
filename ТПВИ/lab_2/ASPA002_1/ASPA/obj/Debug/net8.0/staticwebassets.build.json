@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "cvo6AvTmetPR/Ssmk69YZrI7P1+WhR5eM+j8Vh/MASc=",
+  "Source": "ASPA",
+  "BasePath": "_content/ASPA",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ASPA\\wwwroot",
+      "Source": "ASPA",
+      "ContentRoot": "D:\\Программирование\\4_сем\\ТПВИ\\lab_2\\ASPA002_1\\ASPA\\wwwroot\\",
+      "BasePath": "_content/ASPA",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Программирование\\4_сем\\ТПВИ\\lab_2\\ASPA002_1\\ASPA\\wwwroot\\index.html",
+      "SourceId": "ASPA",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Программирование\\4_сем\\ТПВИ\\lab_2\\ASPA002_1\\ASPA\\wwwroot\\",
+      "BasePath": "_content/ASPA",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\Программирование\\4_сем\\ТПВИ\\lab_2\\ASPA002_1\\ASPA\\wwwroot\\Neumann.jpg",
+      "SourceId": "ASPA",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Программирование\\4_сем\\ТПВИ\\lab_2\\ASPA002_1\\ASPA\\wwwroot\\",
+      "BasePath": "_content/ASPA",
+      "RelativePath": "Neumann.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Neumann.jpg"
+    }
+  ]
+}
